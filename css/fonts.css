@@ -1,0 +1,132 @@
+@font-face {
+	font-family: 'HelveticaNeueCyr-Bold';
+	src: url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Bold.eot');
+	src: url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Bold/HelveticaNeueCyr-Bold.woff') format('woff'),
+		 url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Bold/HelveticaNeueCyr-Bold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'HelveticaNeueCyr-Medium';
+	src: url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Medium/HelveticaNeueCyr-Medium.eot');
+	src: url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Medium/HelveticaNeueCyr-Medium.woff') format('woff'),
+		 url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Medium/HelveticaNeueCyr-Medium.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'HelveticaNeueCyr-Roman';
+	src: url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Roman/HelveticaNeueCyr-Roman.eot');
+	src: url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Roman/HelveticaNeueCyr-Roman.woff') format('woff'),
+		 url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Roman/HelveticaNeueCyr-Roman.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'HelveticaNeueCyr-Black';
+	src: url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Black/HelveticaNeueCyr-Black.eot');
+	src: url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Black/HelveticaNeueCyr-Black.woff') format('woff'),
+		 url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Black/HelveticaNeueCyr-Black.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'HelveticaNeueCyr-Light';
+	src: url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Light/HelveticaNeueCyr-Light.eot');
+	src: url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Light/HelveticaNeueCyr-Light.woff') format('woff'),
+		 url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Light/HelveticaNeueCyr-Light.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'HelveticaNeueCyr-Thin';
+	src: url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Thin/HelveticaNeueCyr-Thin.eot');
+	src: url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Thin/HelveticaNeueCyr-Thin.woff') format('woff'),
+		 url('../fonts/HelveticaNeueCyr/HelveticaNeueCyr-Thin/HelveticaNeueCyr-Thin.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Exo2Black';
+	src: url('../fonts/Exo2/Exo2Black/Exo2Black.eot');
+	src: url('../fonts/Exo2/Exo2Black/Exo2Black.woff') format('woff'),
+		 url('../fonts/Exo2/Exo2Black/Exo2Black.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Exo2Bold';
+	src: url('../fonts/Exo2/Exo2Bold/Exo2Bold.eot');
+	src: url('../fonts/Exo2/Exo2Bold/Exo2Bold.woff') format('woff'),
+		 url('../fonts/Exo2/Exo2Bold/Exo2Bold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Exo2ExtraBold';
+	src: url('../fonts/Exo2/Exo2ExtraBold/Exo2ExtraBold.eot');
+	src: url('../fonts/Exo2/Exo2ExtraBold/Exo2ExtraBold.woff') format('woff'),
+		 url('../fonts/Exo2/Exo2ExtraBold/Exo2ExtraBold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Exo2Medium';
+	src: url('../fonts/Exo2/Exo2Medium/Exo2Medium.eot');
+	src: url('../fonts/Exo2/Exo2Medium/Exo2Medium.woff') format('woff'),
+		 url('../fonts/Exo2/Exo2Medium/Exo2Medium.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Exo2Regular';
+	src: url('../fonts/Exo2/Exo2Regular/Exo2Regular.eot');
+	src: url('../fonts/Exo2/Exo2Regular/Exo2Regular.woff') format('woff'),
+		 url('../fonts/Exo2/Exo2Regular/Exo2Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Exo2SemiBold';
+	src: url('../fonts/Exo2/Exo2SemiBold/Exo2SemiBold.eot');
+	src: url('../fonts/Exo2/Exo2SemiBold/Exo2SemiBold.woff') format('woff'),
+		 url('../fonts/Exo2/Exo2SemiBold/Exo2SemiBold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'DINpro-Bold';
+	src: url('../fonts/DINpro/DINpro-Bold/DINpro-Bold.eot');
+	src: url('../fonts/DINpro/DINpro-Bold/DINpro-Bold.woff') format('woff'),
+		 url('../fonts/DINpro/DINpro-Bold/DINpro-Bold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Raleway-Bold';
+	src: url('../fonts/Raleway/Raleway-Bold/Raleway-Bold.eot');
+	src: url('../fonts/Raleway/Raleway-Bold/Raleway-Bold.woff') format('woff'),
+		 url('../fonts/Raleway/Raleway-Bold/Raleway-Bold.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Rubik-light';
+	src: url('../fonts/Rubik/Rubik-light/Rubik-light.eot');
+	src: url('../fonts/Rubik/Rubik-light/Rubik-light.woff') format('woff'),
+		 url('../fonts/Rubik/Rubik-light/Rubik-light.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+
+
+
+
+
+
+
+
+
+
